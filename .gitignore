@@ -1,0 +1,6 @@
+.env
+state.json
+demo_state.json
+*.tmp
+__pycache__/
+google-creds*.json
